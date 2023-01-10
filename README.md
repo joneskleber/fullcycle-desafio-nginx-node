@@ -16,12 +16,6 @@ Após clonar o projeto, navegue pelo terminal até a pasta com os arquivos e fa�
 docker-compose up --build
 ```
 
-Em seguida, rode o container com a imagem que acabou de criar.
-
-```bash
-docker run --rm joneskleber/fullcycle-golang:latest
-```
-
 Após executar o build vá até o navegador e execute o comando.
 
 ```bash
@@ -46,7 +40,7 @@ O projeto consiste em criar 3 imagens, sendo elas:
 
 [Nodejs](https://nodejs.org/en/)
 
-[NGNIX](https://www.nginx.com/)
+[NGINX](https://www.nginx.com/)
 
 ### Desenvolvido por
 

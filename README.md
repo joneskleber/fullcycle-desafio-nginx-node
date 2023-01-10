@@ -41,8 +41,11 @@ O projeto consiste em criar 3 imagens, sendo elas:
 ### Material Complementar
 
 [Dockerize](https://github.com/jwilder/dockerize)
+
 [Wait-for-it](https://github.com/codeedu/docker-wait-for-it)
+
 [Nodejs](https://nodejs.org/en/)
+
 [NGNIX](https://www.nginx.com/)
 
 ### Desenvolvido por
